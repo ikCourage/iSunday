@@ -1,0 +1,46 @@
+<ing>
+	<window>
+		<title>Ingz</title>
+		
+		<alwaysInFront>true</alwaysInFront>
+		
+		<!-- The type of system chrome to use (either "standard" or "none"). Optional. Default standard. -->
+		<systemChrome>none</systemChrome>
+
+		<!-- Whether the window is transparent. Only applicable when systemChrome is none. Optional. Default false. -->
+		<transparent>true</transparent>
+		
+		<!-- Whether the window is initially visible. Optional. Default false. -->
+		<!--visible>true</visible-->
+
+		<!-- Whether the user can minimize the window. Optional. Default true. -->
+		<!--minimizable></minimizable-->
+
+		<!-- Whether the user can maximize the window. Optional. Default true. -->
+		<!--maximizable></maximizable-->
+
+		<!-- Whether the user can resize the window. Optional. Default true. -->
+		<!--resizable></resizable-->
+		
+		<!--type></type-->
+		
+		<!-- The window's initial width in pixels. Optional. -->
+		<!--width>700</width-->
+
+		<!-- The window's initial height in pixels. Optional. -->
+		<!--height>400</height-->
+
+		<!-- The window's initial x position. Optional. -->
+		<!--x></x-->
+
+		<!-- The window's initial y position. Optional. -->
+		<!--y></y-->
+		
+		<!-- Whether the app launches in full screen. Optional. Default false -->
+        <!--fullScreen>true</fullScreen-->
+        
+        <!--maxopen>5</maxopen-->
+	</window>
+	
+	<plugin>extension/ingz/ingz.xml</plugin>
+</ing>
