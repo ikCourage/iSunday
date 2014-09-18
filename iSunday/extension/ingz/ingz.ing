@@ -1,12 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<application xmlns="http://ns.adobe.com/air/application/3.1">
-	<id>Ingz</id>
-	<filename>Ingz</filename>
-	<name>Ingz</name>
-	<initialWindow>
+<ing>
+	<window>
 		<title>Ingz</title>
-		
-		<content>imoon.swf</content>
 		
 		<alwaysInFront>true</alwaysInFront>
 		
@@ -46,7 +40,7 @@
         <!--fullScreen>true</fullScreen-->
         
         <!--maxopen>5</maxopen-->
-	</initialWindow>
+	</window>
 	
 	<plugin>extension/ingz/ingz.xml</plugin>
-</application>
+</ing>
