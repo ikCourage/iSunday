@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
 	<version>1.0.0</version>
-	<timestamp>20140919.1</timestamp>
+	<timestamp>20141224.1</timestamp>
 	<url>https://github.com/ikCourage/iSunday/raw/master/iSunday/iSunday.air</url>
 	<mainUrl>https://github.com/ikCourage/iSunday/raw/master/iSunday/iSunday.swf</mainUrl>
 	<description><![CDATA[iSunday]]></description>
@@ -9,6 +9,6 @@
 		<file crc32="4F7KNT" path="/imoon.swf" url="https://github.com/ikCourage/iSunday/raw/master/iSunday/imoon.swf"></file>
 		<file crc32="8RJXWG" path="/extension/ingz/ingz.ing" url="https://github.com/ikCourage/iSunday/raw/master/iSunday/extension/ingz/ingz.ing"></file>
 		<file crc32="1BCR867" path="/extension/ingz/ingz.xml" url="https://github.com/ikCourage/iSunday/raw/master/iSunday/extension/ingz/ingz.xml"></file>
-		<file crc32="1B6RS0T" path="/extension/ingz/ingz.swf" url="https://github.com/ikCourage/iSunday/raw/master/iSunday/extension/ingz/ingz.swf"></file>
+		<file crc32="L2CIAE" path="/extension/ingz/ingz.swf" url="https://github.com/ikCourage/iSunday/raw/master/iSunday/extension/ingz/ingz.swf"></file>
 	</fileList>
 </update>
