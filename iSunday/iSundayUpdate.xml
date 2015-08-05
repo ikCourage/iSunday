@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
 	<version>1.0.0</version>
-	<timestamp>20141224.1</timestamp>
+	<timestamp>20141224.2</timestamp>
 	<url>https://github.com/ikCourage/iSunday/raw/master/iSunday/iSunday.air</url>
 	<mainUrl>https://github.com/ikCourage/iSunday/raw/master/iSunday/iSunday.swf</mainUrl>
 	<description><![CDATA[iSunday]]></description>
