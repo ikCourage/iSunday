@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
 	<version>1.0.0</version>
-	<timestamp>20141224.2</timestamp>
+	<timestamp>20141224.1</timestamp>
 	<AppTimestamp>20141224.1</AppTimestamp>
 	<AppUrlMac>https://github.com/ikCourage/iSunday/raw/master/iSunday/iSunday.dmg</AppUrlMac>
-	<AppUrlMac_crc32>1948CJ4</AppUrlMac_crc32>
 	<AppUrlWin>https://github.com/ikCourage/iSunday/raw/master/iSunday/iSunday.exe</AppUrlWin>
-	<AppUrlWin_crc32>1AUV0SS</AppUrlWin_crc32>
 	<url>https://github.com/ikCourage/iSunday/raw/master/iSunday/iSunday.air</url>
-	<mainUrl>https://github.com/ikCourage/iSunday/raw/master/iSunday/iSunday.swf</mainUrl>
+	<mainUrl>https://github.com/ikCourage/iSunday/raw/master/iSunday/iSundayMoon.swf</mainUrl>
 	<description><![CDATA[iSunday]]></description>
 	<fileList>
 		<file crc32="OREGXN" path="/imoon.swf" url="https://github.com/ikCourage/iSunday/raw/master/iSunday/imoon.swf"></file>
 	</fileList>
-	<ingz>
-		<file crc32="CX30RS" path="iPlayer.ingz" url="https://github.com/ikCourage/iSunday/raw/master/iSunday/ingz/iPlayer.ingz"></file>
-		<file crc32="X439JI" path="AConsole.ingz" url="https://github.com/ikCourage/iSunday/raw/master/iSunday/ingz/AConsole.ingz"></file>
-	</ingz>
 </update>
